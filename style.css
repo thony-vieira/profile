@@ -48,6 +48,7 @@ h1, h2, h3 {
   padding: 12px 24px;
   border-radius: 8px;
   font-weight: bold;
+  display: block;
 }
 
 #btn-santos:hover {
